@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-![the Image](https://img.freepik.com/premium-photo/lion-businessman-suit-typing-laptop-making-important-business-deals_124507-99260.jpg?w=900)
+![the Image](https://images.unsplash.com/photo-1476610182048-b716b8518aae?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D)
 
 Hello everybody, welcome to my portfolio. .  i am a **compititive coder** on leetcode and codeforces.
 
